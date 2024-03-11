@@ -21,3 +21,5 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 ## Acknowledgements
 * https://medium.com/ - Understanding Activation Functions and Hidden Layers in Neural Networks
 * https://stackoverflow.com/ - number of hidden layer nodes to use
+* https://keras.io/keras_tuner/ - training the model using variables so it will check multiple models
+* 
