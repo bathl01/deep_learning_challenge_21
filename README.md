@@ -16,3 +16,8 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 * SPECIAL_CONSIDERATIONS—Special considerations for application
 * ASK_AMT—Funding amount requested
 * IS_SUCCESSFUL—Was the money used effectively
+
+
+## Acknowledgements
+* https://medium.com/ - Understanding Activation Functions and Hidden Layers in Neural Networks
+* https://stackoverflow.com/ - number of hidden layer nodes to use
